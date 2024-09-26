@@ -1,2 +1,2 @@
-# checkers
+# Checkers
 Terminal Checkers
